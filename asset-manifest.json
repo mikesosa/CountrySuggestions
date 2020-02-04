@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CountrySuggestions/static/css/main.1090deeb.chunk.css",
+    "main.js": "/CountrySuggestions/static/js/main.01ecf116.chunk.js",
+    "main.js.map": "/CountrySuggestions/static/js/main.01ecf116.chunk.js.map",
+    "runtime-main.js": "/CountrySuggestions/static/js/runtime-main.d147e82c.js",
+    "runtime-main.js.map": "/CountrySuggestions/static/js/runtime-main.d147e82c.js.map",
+    "static/js/2.1deae109.chunk.js": "/CountrySuggestions/static/js/2.1deae109.chunk.js",
+    "static/js/2.1deae109.chunk.js.map": "/CountrySuggestions/static/js/2.1deae109.chunk.js.map",
+    "index.html": "/CountrySuggestions/index.html",
+    "precache-manifest.2990ba04c0659cab54e70ae2b42c1cb9.js": "/CountrySuggestions/precache-manifest.2990ba04c0659cab54e70ae2b42c1cb9.js",
+    "service-worker.js": "/CountrySuggestions/service-worker.js",
+    "static/css/main.1090deeb.chunk.css.map": "/CountrySuggestions/static/css/main.1090deeb.chunk.css.map",
+    "static/js/2.1deae109.chunk.js.LICENSE": "/CountrySuggestions/static/js/2.1deae109.chunk.js.LICENSE",
+    "static/media/index.css": "/CountrySuggestions/static/media/bg-big.1b3d637e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d147e82c.js",
+    "static/js/2.1deae109.chunk.js",
+    "static/css/main.1090deeb.chunk.css",
+    "static/js/main.01ecf116.chunk.js"
+  ]
+}
