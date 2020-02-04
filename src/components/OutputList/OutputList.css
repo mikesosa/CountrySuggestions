@@ -1,0 +1,17 @@
+.alert {
+  color: coral;
+  margin: 5px 0px 10px;
+  margin-bottom: 10px;
+  font-size: 12px;
+  font-style: italic;
+}
+.mb-alert {
+  border-bottom: 1px solid;
+  padding-bottom: 10px;
+}
+.outputList {
+  background: #ac4a4a1c;
+  width: 47%;
+  border-radius: 0px 0px 15px 15px;
+  padding: 5px 10px;
+}
